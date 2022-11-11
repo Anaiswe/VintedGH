@@ -1,0 +1,4 @@
+{
+  "dotenv.enableAutocloaking": true,
+  "liveServer.settings.port": 5501
+}
